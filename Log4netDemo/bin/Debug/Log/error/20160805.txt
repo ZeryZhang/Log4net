@@ -1,0 +1,9 @@
+
+时间：2016-08-05 14:44:36,434  异常类：ErrorLog 行号：70 
+ 错误消息：异常消息：尝试除以零。 
+	 堆栈信息：   在 Log4netDemo.Test.TestLog() 位置 d:\我的文档\visual studio 2015\Projects\Log4netDemo\Log4netDemo\Program.cs:行号 40 
+	 
+时间：2016-08-05 14:47:00,084  异常类：ErrorLog 行号：70 
+ 错误消息：异常消息：尝试除以零。 
+堆栈信息：   在 Log4netDemo.Test.TestLog() 位置 d:\我的文档\visual studio 2015\Projects\Log4netDemo\Log4netDemo\Program.cs:行号 40 
+ 

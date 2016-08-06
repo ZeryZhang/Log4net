@@ -1,0 +1,9 @@
+d:\我的文档\visual studio 2015\Projects\Log4netDemo\Log4netDemo\bin\Debug\log4net.config
+d:\我的文档\visual studio 2015\Projects\Log4netDemo\Log4netDemo\bin\Debug\Log4netDemo.exe.config
+d:\我的文档\visual studio 2015\Projects\Log4netDemo\Log4netDemo\bin\Debug\Log4netDemo.exe
+d:\我的文档\visual studio 2015\Projects\Log4netDemo\Log4netDemo\bin\Debug\Log4netDemo.pdb
+d:\我的文档\visual studio 2015\Projects\Log4netDemo\Log4netDemo\bin\Debug\log4net.dll
+d:\我的文档\visual studio 2015\Projects\Log4netDemo\Log4netDemo\bin\Debug\log4net.xml
+d:\我的文档\visual studio 2015\Projects\Log4netDemo\Log4netDemo\obj\Debug\Log4netDemo.exe
+d:\我的文档\visual studio 2015\Projects\Log4netDemo\Log4netDemo\obj\Debug\Log4netDemo.pdb
+d:\我的文档\visual studio 2015\Projects\Log4netDemo\Log4netDemo\obj\Debug\Log4netDemo.csprojResolveAssemblyReference.cache
