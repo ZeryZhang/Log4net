@@ -23,7 +23,7 @@ namespace Log4netDemo
 
             Test t = new Test();
             t.TestLog();
-	    Console.WriteLine("test");
+	   
 
             Console.Read();
         }
